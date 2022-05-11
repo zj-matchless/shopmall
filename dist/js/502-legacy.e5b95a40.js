@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkshop_mall"]=self["webpackChunkshop_mall"]||[]).push([[502],{7502:function(e,n,l){l.r(n),l.d(n,{default:function(){return f}});var t=function(){var e=this,n=e.$createElement,l=e._self._c||n;return l("h2",[e._v("分类")])},u=[],r={name:"Category"},a=r,s=l(1001),c=(0,s.Z)(a,t,u,!1,null,"18f45656",null),f=c.exports}}]);
+//# sourceMappingURL=502-legacy.e5b95a40.js.map
